@@ -19,3 +19,5 @@ Metodologías de trabajo
  - Retro para obtener feedback y mejorar a nivel equipo.
  - Pair programming
  - Desarrollo en backend y frontend
+ 
+![ScreenShotApp](https://raw.githubusercontent.com/GusRet01/ElClubDelPlan/main/clubdelplan/src/assets/app_screenshot.png)
