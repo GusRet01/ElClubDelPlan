@@ -10,6 +10,8 @@ Stack de tecnologías
   • JavaScript
   • Back End: nodejs + express + mongodb 
   • Front End: React Native + Redux 
+  
+Duracion: 4 semanas
 
 Metodologías de trabajo
 
