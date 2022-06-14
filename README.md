@@ -21,3 +21,6 @@ Metodologías de trabajo
  - Desarrollo en backend y frontend
  
 ![ScreenShotApp](https://raw.githubusercontent.com/GusRet01/ElClubDelPlan/main/clubdelplan/src/assets/app_screenshots.png)
+
+Saludos!
+
