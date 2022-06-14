@@ -20,4 +20,4 @@ Metodologías de trabajo
  - Pair programming
  - Desarrollo en backend y frontend
  
-![ScreenShotApp](https://raw.githubusercontent.com/GusRet01/ElClubDelPlan/main/clubdelplan/src/assets/app_screenshot.png)
+![ScreenShotApp](https://raw.githubusercontent.com/GusRet01/ElClubDelPlan/main/clubdelplan/src/assets/app_screenshots.png)
